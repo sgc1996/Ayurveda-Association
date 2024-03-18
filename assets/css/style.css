@@ -3730,6 +3730,7 @@ select {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
   margin-top: 30px;
+  min-height: 475px;
 }
 @media only screen and (max-width: 575px) {
   .single-blog {
