@@ -7521,3 +7521,43 @@ select {
 } */
 
 /* End Team sections */
+
+
+/*Volunteer section begin*/
+.volunteer-type {
+  margin-bottom: 30px;
+  position: relative;
+  overflow: hidden;
+}
+
+.volunteer-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.volunteer-content {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #eaeaea;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.article {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.bullet-list {
+  list-style-type: disc; /* or other list-style-type values like circle, square, etc. */
+  margin-left: 20px; /* Adjust the margin as needed */
+}
+
+.bullet-list li {
+  margin-bottom: 10px; /* Adjust spacing between list items */
+}
