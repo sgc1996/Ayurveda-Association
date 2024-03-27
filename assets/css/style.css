@@ -7561,3 +7561,8 @@ select {
 .bullet-list li {
   margin-bottom: 10px; /* Adjust spacing between list items */
 }
+
+.checkbox-label {
+  display: inline-block;
+ 
+}
